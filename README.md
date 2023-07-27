@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/WwUV.gif">
+<img width=500, height="500" src="https://i.gifer.com/WwUV.gif">
 <h1 align="center">Hello World, I'm <b>Anand K Suni</b></h1>
 <h3 align="center">Tech Enthusiast</h3>
 
