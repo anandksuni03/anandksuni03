@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="350" src="https://drive.google.com/file/d/1N4H3aA09YFC63DCKWDTYIUuyD4RsY2md/view?usp=sharing">
+  <img src="https://drive.google.com/file/d/1N4H3aA09YFC63DCKWDTYIUuyD4RsY2md/view?usp=sharing" alt="Banner Image" width="100%" height="300">
 <h1 align="center">Hello World, I'm <b>Anand K Suni</b></h1>
 <h3 align="center">Tech Enthusiast</h3>
 
